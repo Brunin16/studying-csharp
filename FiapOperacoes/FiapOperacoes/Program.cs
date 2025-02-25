@@ -10,9 +10,10 @@ namespace FiapOperacoes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("digita teu nome rapa");
-            String read =Console.ReadLine();
-            Console.WriteLine("tu digito:" + read);
+            Console.WriteLine("dois digitos");
+            Double read1 = Convert.ToDouble( Console.ReadLine());
+            Double read2 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("soma:" +( read1+ read2));
 
 
             Console.ReadKey();
