@@ -1,0 +1,7 @@
+C:\Users\labsfiap\Desktop\studying-csharp\FiapOperacoes\FiapOperacoes\bin\Debug\FiapOperacoes.exe.config
+C:\Users\labsfiap\Desktop\studying-csharp\FiapOperacoes\FiapOperacoes\bin\Debug\FiapOperacoes.exe
+C:\Users\labsfiap\Desktop\studying-csharp\FiapOperacoes\FiapOperacoes\bin\Debug\FiapOperacoes.pdb
+C:\Users\labsfiap\Desktop\studying-csharp\FiapOperacoes\FiapOperacoes\obj\Debug\FiapOperacoes.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\studying-csharp\FiapOperacoes\FiapOperacoes\obj\Debug\FiapOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\studying-csharp\FiapOperacoes\FiapOperacoes\obj\Debug\FiapOperacoes.exe
+C:\Users\labsfiap\Desktop\studying-csharp\FiapOperacoes\FiapOperacoes\obj\Debug\FiapOperacoes.pdb
