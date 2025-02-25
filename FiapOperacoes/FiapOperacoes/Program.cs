@@ -14,6 +14,7 @@ namespace FiapOperacoes
             Double read1 = Convert.ToDouble( Console.ReadLine());
             Double read2 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("soma:" +( read1+ read2));
+            Console.WriteLine("divisao" + ( read1/ read2));
 
 
             Console.ReadKey();
