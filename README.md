@@ -1,2 +1,2 @@
-# studying-c-
+# studying-csharp
 Repositorio para estudo de c#
